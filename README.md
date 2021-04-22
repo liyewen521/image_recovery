@@ -7,4 +7,4 @@ Li, Yewen, et al. "A Novel Image Tamper Detection and Self-Recovery Algorithm Ba
 ![](https://liyewen-picture.oss-cn-beijing.aliyuncs.com/2021/02/20210216-image_recovery.png)
 
 # Contact
-If you have any questions about the source code or the paper, please contact with liyewen@ncic.ac.cn
+If you have any questions about the source code or the paper, please contact with liyewen521@gmail.com
